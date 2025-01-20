@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GOVE.Identity.Services/GOVE.Identity.Services/obj
+/GOVE.Identity.Services/GOVE.Identity.Services/.config
+/GOVE.Identity.Services/GOVE.Identity.Services/Properties
+/GOVE.Identity.Services/.vs/GOVE.Identity.Services/v17
+/GOVE.Identity.Services/.vs/GOVE.Identity.Services/FileContentIndex/8239c4f7-e74a-4d6a-8a4a-3b8fedb1f48b.vsidx
+/GOVE.Identity.Services/.vs/GOVE.Identity.Services/FileContentIndex/889c070d-4a9f-4ff5-bdbf-726cbe54bda4.vsidx
+/GOVE.Identity.Services/.vs/GOVE.Identity.Services/FileContentIndex/d69267df-b74c-4360-9ebe-e9e7ce14b9a6.vsidx
+/GOVE.Identity.Services/.vs/GOVE.Identity.Services/FileContentIndex/e122e7de-7018-4c32-972c-ecc56891ad2d.vsidx
+/GOVE.Identity.Services/.vs/GOVE.Identity.Services/FileContentIndex/e78dcc2b-a577-49af-950e-c96d6e6e6824.vsidx
